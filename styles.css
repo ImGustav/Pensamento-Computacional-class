@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+}
+
+.text-align {
+    text-align: center;
+}
+
+
+.border {
+    border: 2px solid black;
+    border-radius:20px ;
+    width: 20%;
+    height: 40%;
+    padding: 10px;
+    margin: auto;
+    background-color: white;
+}
+
+p {
+    color: black bold;
+}
+
+form {
+    margin-right: flex;
+}
+
+button {
+    margin-top: 20px;
+}
+
+body {
+    background-color: beige;
+}
